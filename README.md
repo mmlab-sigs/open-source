@@ -13,6 +13,8 @@ Selected open-source projects of [mmlab@SIGS](https://www.notion.so/mmlabsigs/14
 
 ## Distributed ML Group
 1. DAGC (INFOCOM 2023, IEEE TMC 2024): https://github.com/Jiang-Yutong/DAGC
+2. DICE (ICCV 2025): https://github.com/Cobalt-27/DICE
+3. CompactFusion (NeurIPS 2025): https://github.com/Cobalt-27/CompactFusion
 
 ## Efficient DL and Embodiment Group
 1. PRANCE (TPAMI 2025): https://github.com/ChildTang/PRANCE
