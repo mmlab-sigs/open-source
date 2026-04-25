@@ -10,13 +10,16 @@ Selected open-source projects of [mmlab@SIGS](https://www.notion.so/mmlabsigs/14
 6. NetLLM (SIGCOMM 2024): https://github.com/duowuyms/NetLLM/
 
 ## Efficient Deep Learning and Embodiment
-1. PRANCE (TPAMI 2025): https://github.com/ChildTang/PRANCE
-2. Q-DiT (CVPR 2025): https://github.com/Juanerx/Q-DiT
-3. JAQ (AAAI 25）：https://github.com/wmz-max/JAQ
-4. RFQuant (CVPR 2024)：https://github.com/1hunters/retraining-free-quantization/
-5. TMPQ-DM：https://github.com/sihouzi21c/TMPQ-DM
-6. ElasticViT（ICCV 23）：https://github.com/microsoft/Moonlit/tree/main/ElasticViT
-7. LIMPQ（ECCV 22）：https://github.com/1hunters/LIMPQ
+1. Test-time Sparsity (CVPR2026): https://github.com/ky-ji/Test-time-Sparsity
+2. BAC (ICLR 2026): https://github.com/ky-ji/BAC
+3. SP-VLA (ICLR 2026): https://github.com/ChildTang/SP-VLA
+4. PRANCE (TPAMI 2025): https://github.com/ChildTang/PRANCE
+5. Q-DiT (CVPR 2025): https://github.com/Juanerx/Q-DiT
+6. JAQ (AAAI 25）：https://github.com/wmz-max/JAQ
+7. RFQuant (CVPR 2024)：https://github.com/1hunters/retraining-free-quantization/
+8. TMPQ-DM：https://github.com/sihouzi21c/TMPQ-DM
+9. ElasticViT（ICCV 23）：https://github.com/microsoft/Moonlit/tree/main/ElasticViT
+10. LIMPQ（ECCV 22）：https://github.com/1hunters/LIMPQ
 
 ## Self-Evolving Embodied Agents
 1. FIND (NeurIPS 2025): https://github.com/Peanut-255/FIND
