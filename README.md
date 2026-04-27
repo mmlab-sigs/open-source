@@ -22,15 +22,20 @@ Selected open-source projects of [mmlab@SIGS](https://www.notion.so/mmlabsigs/14
 10. LIMPQ（ECCV 22）：https://github.com/1hunters/LIMPQ
 
 ## Self-Evolving Embodied Agents
-1. FIND (NeurIPS 2025): https://github.com/Peanut-255/FIND
-2. COSMIC (CVPR 2025): https://hf618.github.io/COSMIC_Project/
-3. Featuring INR (NeurIPS 2025): https://github.com/zwx-open/Featuring-INR
-4. IGen: https://chenghaogu.github.io/IGen/
-5. INR Survey: https://github.com/zwx-open/Recent-Progress-of-INR
+1. MoETTA (AAAI 2026): https://github.com/AnikiFan/MoETTA
+2. IGen (CVPR 2026): https://chenghaogu.github.io/IGen/
+3. FIND (NeurIPS 2025): https://github.com/Peanut-255/FIND
+4. COSMIC (CVPR 2025): https://hf618.github.io/COSMIC_Project/
+5. Featuring INR (NeurIPS 2025): https://github.com/zwx-open/Featuring-INR
 6. EVOS (CVPR 2025): https://weixiang-zhang.github.io/proj-evos/
 7. SPT-INR (AAAI 2025): https://weixiang-zhang.github.io/proj-symtrans/
 8. SizeGS (MM 2025): https://github.com/mmlab-sigs/sizegs
-9. MesonGS (ECCV 2024): https://shuzhaoxie.github.io/mesongs/
-10. RoboStream: https://robostream123.github.io/
+9. SoulDance (ICCV 2025): https://xjli360.github.io/SoulDance/
+10. Expansive Supervision (ICME 2025): https://github.com/zwx-open/Expansive-Supervision
+11. MesonGS (ECCV 2024): https://shuzhaoxie.github.io/mesongs/
+12. RFQuant (CVPR 2024): https://github.com/ModelTC/RFQuant
+13. RoboStream: https://robostream123.github.io/
+14. VERL / Beyond the Exploration-Exploitation Trade-off: https://hf618.github.io/VERL.github.io
+15. INR Survey: https://github.com/zwx-open/Recent-Progress-of-INR
 
 
