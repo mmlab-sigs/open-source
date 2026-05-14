@@ -10,16 +10,17 @@ Selected open-source projects of [mmlab@SIGS](https://www.notion.so/mmlabsigs/14
 6. NetLLM (SIGCOMM 2024): https://github.com/duowuyms/NetLLM/
 
 ## Efficient Deep Learning and Embodiment
-1. Test-time Sparsity (CVPR2026): https://github.com/ky-ji/Test-time-Sparsity
-2. BAC (ICLR 2026): https://github.com/ky-ji/BAC
-3. SP-VLA (ICLR 2026): https://github.com/ChildTang/SP-VLA
-4. PRANCE (TPAMI 2025): https://github.com/ChildTang/PRANCE
-5. Q-DiT (CVPR 2025): https://github.com/Juanerx/Q-DiT
-6. JAQ (AAAI 25）：https://github.com/wmz-max/JAQ
-7. RFQuant (CVPR 2024)：https://github.com/1hunters/retraining-free-quantization/
-8. TMPQ-DM：https://github.com/sihouzi21c/TMPQ-DM
-9. ElasticViT（ICCV 23）：https://github.com/microsoft/Moonlit/tree/main/ElasticViT
-10. LIMPQ（ECCV 22）：https://github.com/1hunters/LIMPQ
+1. Sparse ActionGen (ICML 2026): https://github.com/ky-ji/SAG
+2. Test-time Sparsity (CVPR 2026): https://github.com/ky-ji/Test-time-Sparsity
+3. BAC (ICLR 2026): https://github.com/ky-ji/BAC
+4. SP-VLA (ICLR 2026): https://github.com/ChildTang/SP-VLA
+5. PRANCE (TPAMI 2025): https://github.com/ChildTang/PRANCE
+6. Q-DiT (CVPR 2025): https://github.com/Juanerx/Q-DiT
+7. JAQ (AAAI 25）：https://github.com/wmz-max/JAQ
+8. RFQuant (CVPR 2024)：https://github.com/1hunters/retraining-free-quantization/
+9. TMPQ-DM：https://github.com/sihouzi21c/TMPQ-DM
+10. ElasticViT（ICCV 23）：https://github.com/microsoft/Moonlit/tree/main/ElasticViT
+11. LIMPQ（ECCV 22）：https://github.com/1hunters/LIMPQ
 
 ## Self-Evolving Embodied Agents
 1. MoETTA (AAAI 2026): https://github.com/AnikiFan/MoETTA
